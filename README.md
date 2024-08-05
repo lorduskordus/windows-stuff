@@ -1,4 +1,4 @@
-# Windows-Stuff
+# Windows Stuff
 A collection of scripts, services, configs and that kind of stuff for Windows
 
 ## Useful links
@@ -13,7 +13,7 @@ A collection of scripts, services, configs and that kind of stuff for Windows
         ```ps1
         irm "https://christitus.com/win" | iex
         ```
-* [Microsoft Activation Scripts](https://github.com/ChrisTitusTech/winutil)
+* [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
     
     * Activate
         * The worst OS in human history
