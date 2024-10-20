@@ -68,3 +68,5 @@ function Prompt {
 
 # Aliases
 Set-Alias grep findstr
+Set-Alias poweroff Stop-Computer
+Set-Alias reboot Restart-Computer
