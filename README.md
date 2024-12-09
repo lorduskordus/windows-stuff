@@ -23,3 +23,4 @@ A collection of scripts, services, configs and that kind of stuff for Windows
         ```ps1
         irm "https://get.activated.win" | iex
         ```
+* [Virtio drivers](https://github.com/virtio-win/virtio-win-pkg-scripts/blob/master/README.md)
