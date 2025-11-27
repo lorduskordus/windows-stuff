@@ -1,5 +1,12 @@
-# Windows Stuff
-A collection of scripts, services, configs and that kind of stuff for Windows
+<div align="center">
+    <h1>
+        Windows Stuff
+    </h1>
+    <h3>
+        A collection of scripts, services, configs and that kind of stuff for Windows
+    </h3>
+    <br>
+</div>
 
 ## Useful links
 * [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil)
